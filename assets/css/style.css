@@ -1,9 +1,10 @@
 .header {
     width: 100%;
-    border-bottom-style: solid;
-    border-color: gray;
-    border-width: 5px;
     height: 75px;
+    margin: auto;
+    background-color: white;
+    color: black;
+
 }
 
 .name {
@@ -35,7 +36,7 @@
 
 #contact {
     float: left;
-    padding: 10px 5px 10px 5px;
+    padding: 10px 15px 10px 5px;
 }
 
 .clearfix::after {
@@ -52,4 +53,24 @@
 .body {
     display: block;
     margin: 0px;
+    width: 100%;
+    color: white;
+}
+
+.profile-picture {
+    width: auto;
+    height: auto;
+    max-width: 200px;
+    max-height: 200px;
+    float: left;
+}
+
+.about {
+    width: 110px;
+    text-align: center;
+    color: #4aaaa5
+}
+
+.footer {
+    text-align: center;
 }
