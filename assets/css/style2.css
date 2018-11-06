@@ -110,3 +110,17 @@
     min-height: 100%;
     margin-bottom: -75px;
 }
+
+.input {
+    margin-top: 5px;
+    width: 914px;
+}
+
+.submit {
+    color: white;
+    background-color: #4aaaa5;
+    width: 75px;
+    height: 25px;
+    margin-top: 20px;
+}
+
