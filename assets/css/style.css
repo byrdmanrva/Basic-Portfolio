@@ -53,6 +53,7 @@
     width: 960px;
     margin: auto;
     padding: 20px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 .body {
@@ -81,7 +82,8 @@
     border-top-color: #4aaaa5;
     position: fixed;
     bottom: 0;
-    width: 100%
+    width: 100%;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 .header-width {
